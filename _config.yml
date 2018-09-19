@@ -8,6 +8,8 @@ permalink: /:title
 url: http://darcski.github.io
 baseurl:
 
+color_scheme: azul
+
 # Custom options:
 # color_scheme: azul|ruby|amber|avocado
 # color_scheme: avocado
